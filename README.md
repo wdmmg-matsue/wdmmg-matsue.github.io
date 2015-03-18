@@ -6,7 +6,6 @@ Where Does My Money Go? 島根県松江市版（2013年7月21日稼働）は、�
 なお、このサイトは、島根好きな以下のメンバーによって構築、運営されています。
 
 Core Member: (@は Twitter Account)
-
-吉田　勇太(Yuta Yoshida), @yutatatatata, http://ysdyt.net/
-桑原　陸也(Rikuya Kuwabara), @cog1t0
+- 吉田　勇太 (Yuta Yoshida), [@yutatatatata](https://twitter.com/yutatatatata), http://ysdyt.net/
+- 桑原　陸也 (Rikuya Kuwabara), [@cog1t0](https://twitter.com/cog1t0)
 
