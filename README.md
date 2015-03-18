@@ -10,8 +10,3 @@ Core Member: (@は Twitter Account)
 吉田　勇太(Yuta Yoshida), @yutatatatata, http://ysdyt.net/
 桑原　陸也(Rikuya Kuwabara), @cog1t0
 
-
-このソースコードは、Open Definition(http://opendefinition.org/) の定義に沿っていれば、どなたでも利用、改変、及び再配布が可能です。
-http://qiita.com/items/38c186efbd272ef59121
-に、このソースコードを Fork して独自のサイトを作る為のドキュメントがありますので、是非ご自由にお使いください。
-
